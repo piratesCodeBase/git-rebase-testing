@@ -13,3 +13,5 @@ console.log("This is commit for the rebase");
 console.log('feature3 branch 1 commit ahead of the master branch');
 
 console.log("Master Rebase 1");
+
+console.log("Master Rebase 2");
